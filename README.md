@@ -1,0 +1,2 @@
+# JogoDaCobrinha
+ Desenvolvi uma versão do clássico jogo da cobra usando Pygame, e estou animado para compartilhar o resultado com vocês!  🔍 Detalhes do Projeto: Tecnologias Utilizadas: Pygame, Python. Funcionalidades Incríveis: Movimento fluido da cobra, maçãs geradas aleatoriamente, pontuação dinâmica e detecção inteligente de colisão.  Imersão Total: Adicionei efeitos sonoros envolventes e uma trilha sonora eletrizante para uma experiência de jogo completa!
